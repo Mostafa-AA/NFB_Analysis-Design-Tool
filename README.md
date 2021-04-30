@@ -5,3 +5,4 @@ transient analysis of the system with transient C/Cs
 #PART3: Design circuit corresponding to output of PART2.
 
 Soon, PART1 will be ready.....
+open screenshot png
