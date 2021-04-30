@@ -6,3 +6,4 @@ transient analysis of the system with transient C/Cs
 
 Soon, PART1 will be ready.....
 open screenshot png
+to run the current code open GUI2.py and run it
